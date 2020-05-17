@@ -12,7 +12,7 @@ https://www.learnopencv.com/applications-of-foreground-background-separation-wit
 
 '''
 import sys
-#sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
+
 import collections
 import os
 import io
